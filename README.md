@@ -1,1 +1,2 @@
 # Algorithms
+Exploring popular algorithms
