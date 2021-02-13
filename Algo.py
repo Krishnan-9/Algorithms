@@ -7,7 +7,7 @@ def create_array(*array, random=False):
     ls = string.split()
     ls = list(map(int, ls))
     print(ls)
-
+    # algo
     n=len(ls)
     for i in range(1,n):
         j = i-1
